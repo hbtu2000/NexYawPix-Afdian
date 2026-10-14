@@ -8,6 +8,9 @@
 - AI换脸
 - 无限次图片去水印
 
+## 🧾 项目访问地址
+项目在线主页：https://nexyawpix.pages.dev/
+
 ## 🧾 购买渠道
 创作者爱发电主页：[https://afdian.com/a/nexyaw](https://afdian.com/a/nexyaw)
 > 套餐：
