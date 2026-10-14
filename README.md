@@ -9,7 +9,7 @@
 - 无限次图片去水印
 
 ## 🧾 购买渠道
-创作者爱发电主页：https://afdian.net/a/nexyaw
+创作者爱发电主页：[https://afdian.net/a/nexyaw](https://afdian.com/a/nexyaw)
 > 套餐：
 > - 9.9元｜7天体验（全功能试用）
 > - 16.9元/月｜月度会员
